@@ -17,8 +17,6 @@ instructor: ["Cynde Moya"] # boxed, comma-separated list of instructors' names a
 # helper: ["helper one", "helper two"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["cmoya@swin.edu.au"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes:  [https://docs.google.com/document/d/1aUdkk8XodhyaT4rAxT5rQnuIi-osjfRx8tHhu9lsiCg/edit?usp=sharing ](https://docs.google.com/document/d/1J3p6WOpQEbHkEldqnF_E3umUznWJntg9dAgCaMCqcdo/edit?usp=sharing)
-
-
 # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
